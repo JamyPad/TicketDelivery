@@ -1,0 +1,5 @@
+c:\users\josue\documents\visual studio 2013\Projects\ControlEntrega\Dominio\bin\Debug\Dominio.dll
+c:\users\josue\documents\visual studio 2013\Projects\ControlEntrega\Dominio\bin\Debug\Dominio.pdb
+c:\users\josue\documents\visual studio 2013\Projects\ControlEntrega\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+c:\users\josue\documents\visual studio 2013\Projects\ControlEntrega\Dominio\obj\Debug\Dominio.dll
+c:\users\josue\documents\visual studio 2013\Projects\ControlEntrega\Dominio\obj\Debug\Dominio.pdb
